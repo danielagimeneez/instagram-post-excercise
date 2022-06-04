@@ -1,0 +1,68 @@
+body {
+    background: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+.instagram-post {
+    background: white;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+}
+
+.post-header {
+    display: flex;
+    padding: 8px;
+    padding-top: 3px;
+    height: 48px;
+    font-size: smaller;
+}
+
+.html-icon {
+    font-size: 38px;
+    padding: 5px;
+}
+
+.points-icon {
+    font-size: 25px;
+    padding: 5px;
+    padding-top: 8px;
+}
+
+.text-header{
+    width: 600px;
+    margin: 0;
+}
+
+img {
+    width: 500px;
+    height: 330px;
+    margin: auto;
+}
+
+.post-icons {
+    display: flex;
+    padding: 13px;
+    padding-top: 5px;
+    height: 10px;
+    font-size: 23px;
+}
+
+.like-icon, .comment-icon{
+    width: 40px;
+}
+
+.share-icon{
+    width: 500px;
+    
+
+}
+
+.post-footer {
+    padding: 0px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin: 0;
+    font-size: small;
+    text-align: justify;
+}
